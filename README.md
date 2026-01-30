@@ -5,7 +5,7 @@ connected to the webhook.
 
 Yes the project is completed as mer the instructions.
 
-Completed.
+
 
 Thank you
 Pushkar
