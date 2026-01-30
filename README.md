@@ -1,9 +1,9 @@
 # action-repo-
 This repo is only to trigger GitHub events (push, PR, merge)
-webhook connected !!
 
-Its working right !
-good
-finally its working
+connected to the webhook.
 
-yes we have competed the project 
+Yes the project is completed as mer the instructions.
+
+Thank you
+Pushkar
